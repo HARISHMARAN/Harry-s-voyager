@@ -1,0 +1,9 @@
+{
+  "name": "Voyager.ai - Intelligent Travel Concierge",
+  "description": "A premium, AI-driven door-to-door travel planning platform featuring proactive logistics, personalized itineraries, and voice-guided briefings.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
