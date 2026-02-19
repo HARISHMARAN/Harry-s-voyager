@@ -32,7 +32,8 @@ const App: React.FC = () => {
   };
 
   return (
-    <div className="min-h-screen bg-background-dark selection:bg-primary selection:text-white">
+        <div className="min-h-screen bg-white text-black">
+
       {currentPage === AppState.LANDING && (
         <LandingPage onPlanClick={startPlanning} />
       )}
